@@ -5,7 +5,40 @@
 
 # Clock
 
-A new Flutter project.
+A new Flutter project 😁 : 
+  _ clock
+  _ timer
+  _  ... 
+
+Clock App UI :  [Clock UI ✏](https://dribbble.com/shots/8200836-Skeuomorph-Clock-App)
+
+ Rate me ⭐
+
+Thank you :))) 
+
+
+### ✌&ensp;Preview
+
+|               Preview                |               UI App                 |
+| :----------------------------------: | :----------------------------------: |
+| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_pk9f.gif) | ![w](https://s6.uupload.ir/files/bank_flutter_jhca.png) |
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
