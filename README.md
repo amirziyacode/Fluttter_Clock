@@ -20,7 +20,7 @@ Thank you :)))
 
 |               Preview                |               UI App                 |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_x2en.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+| ![d]() | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
 
 
 ## Platform
