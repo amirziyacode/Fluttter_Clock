@@ -5,10 +5,9 @@
 
 # Clock
 
-A new Flutter project 😁 : 
-  _ clock
-  _ timer
-  _  ... 
+A new Flutter project 😁
+
+Clock and timer app ⏰
 
 Clock App UI :  [Clock UI ✏](https://dribbble.com/shots/8200836-Skeuomorph-Clock-App)
 
@@ -21,7 +20,7 @@ Thank you :)))
 
 |               Preview                |               UI App                 |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_pk9f.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_x2en.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
 
 
 ## Platform
