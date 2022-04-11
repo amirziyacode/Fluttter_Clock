@@ -1,4 +1,9 @@
-# clocker
+![Clock](https://wallpaper.dog/large/20490577.png)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
+
+# Clock
 
 A new Flutter project.
 
