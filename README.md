@@ -21,7 +21,8 @@ Thank you :)))
 
 |               Preview                |                 UI App               |
 | :----------------------------------: | :----------------------------------: |
-| ![Uploading clock.gif…]() | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+|![clock](https://user-images.githubusercontent.com/75315732/162853920-c991146f-fa8d-461f-8353-8d1f4e582983.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+
 
 
 
