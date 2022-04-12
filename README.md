@@ -21,7 +21,8 @@ Thank you :)))
 
 |               Preview                |                 UI App               |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/clock_fx5h.gif)| ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+| ![Uploading clock.gif…]() | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+
 
 
 ## Platform
