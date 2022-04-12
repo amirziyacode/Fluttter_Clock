@@ -19,9 +19,9 @@ Thank you :)))
 
 ### ✌&ensp;Preview
 
-|               DarkMode               |              LightMode               |
+|               Preview                |                 UI App               |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/clock_fx5h.gif) | ![w](https://s6.uupload.ir/files/clock_fx5h.gif) |
+| ![d](https://s6.uupload.ir/files/clock_fx5h.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
 
 
 ## Platform
