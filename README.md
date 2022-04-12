@@ -16,11 +16,12 @@ Clock App UI :  [Clock UI ✏](https://dribbble.com/shots/8200836-Skeuomorph-Clo
 Thank you :))) 
 
 
+
 ### ✌&ensp;Preview
 
-|               Preview                |               UI App                 |
+|               DarkMode               |              LightMode               |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/clock_fx5h.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/white_nl38.gif) |
 
 
 ## Platform
