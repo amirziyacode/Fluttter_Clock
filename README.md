@@ -21,7 +21,7 @@ Thank you :)))
 
 |               DarkMode               |              LightMode               |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/clock_fx5h.gif) | ![w](https://s6.uupload.ir/files/clock_zeg7.png) |
+| ![d](https://s6.uupload.ir/files/clock_fx5h.gif) | ![w](https://s6.uupload.ir/files/clock_fx5h.gif) |
 
 
 ## Platform
